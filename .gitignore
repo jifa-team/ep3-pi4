@@ -33,3 +33,6 @@ Thumbs.db
 *.temp
 *.bak
 *.orig
+
+# Cypress screenshots (test artifacts)
+cypress/screenshots/
